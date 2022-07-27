@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ZonaDePruebas">
         <activity
+            android:name=".cursoGaston.navigationComponent.MainNavigationActivity"
+            android:exported="false" />
+        <activity
             android:name=".cursoGaston.dataFragments.DataFragmentsActivity"
             android:exported="false" />
         <activity

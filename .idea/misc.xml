@@ -8,8 +8,11 @@
         <entry key="app/src/main/res/layout/activity_data_fragments.xml" value="0.2675925925925926" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2675925925925926" />
         <entry key="app/src/main/res/layout/activity_main_gaston.xml" value="0.2675925925925926" />
+        <entry key="app/src/main/res/layout/activity_main_navigation.xml" value="0.2675925925925926" />
         <entry key="app/src/main/res/layout/fragment_primer.xml" value="0.2675925925925926" />
+        <entry key="app/src/main/res/layout/fragment_primer_navigation.xml" value="0.2675925925925926" />
         <entry key="app/src/main/res/layout/fragment_segundo.xml" value="0.34611358642578127" />
+        <entry key="app/src/main/res/layout/fragment_segundo_navigation.xml" value="0.2675925925925926" />
       </map>
     </option>
   </component>
