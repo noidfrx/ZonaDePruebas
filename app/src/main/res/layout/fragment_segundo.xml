@@ -16,4 +16,10 @@
         android:text="No debo aparecer"
         android:textSize="24sp" />
 
+    <Button
+        android:id="@+id/btnVolverMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Volver con mensaje" />
+
 </LinearLayout>
